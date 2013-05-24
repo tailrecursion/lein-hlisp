@@ -10,4 +10,4 @@
                        [tailrecursion/hlisp-macros "1.0.0"]
                        [criterium "0.3.0"]
                        [clj-tagsoup "0.3.0" :exclusions [org.clojure/clojure]]
-                       [org.clojure/clojurescript "0.0-1552"]])
+                       [org.clojure/clojurescript "0.0-1806"]])
